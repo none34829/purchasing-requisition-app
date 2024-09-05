@@ -1,0 +1,21 @@
+.sidebar {
+    width: 200px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #f8f9fa;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sidebar a {
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .sidebar a:hover {
+    background-color: #e9ecef;
+  }
+  
